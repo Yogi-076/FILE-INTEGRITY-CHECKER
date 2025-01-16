@@ -12,6 +12,8 @@
 
 **MENTOR NAME**:  Neela Santhosh Kumar 
 
+**OUTPUT**: ![Image](https://github.com/user-attachments/assets/c145efab-fb9c-4cc1-93a5-c4c8c5d1a0c2)
+
 File Integrity Checker (Python Script)
 This Python script ensures file integrity by generating and verifying cryptographic hashes. It calculates the hash of a file using a specified algorithm (default: SHA-256) and detects if the file has been modified.
 
@@ -48,3 +50,4 @@ Check File Integrity:
 The script re-calculates the file's hash and compares it with the original hash.
 If the hashes match, the file is confirmed as "intact."
 If the hashes differ, the script warns that the file has been "modified."
+
